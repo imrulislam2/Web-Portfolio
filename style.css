@@ -5,6 +5,9 @@ body{
 h1{
    font-size: 50px;   
 }
+h2{
+    font-size: 40px;
+}
 .name-highlight{
     color: blue;
 }
@@ -32,4 +35,9 @@ h1{
     color: whitesmoke;
     font-weight: bold;
 
+}
+.Future Goal{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
